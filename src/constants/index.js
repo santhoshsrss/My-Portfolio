@@ -39,6 +39,10 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "download",
+      title: "Download",
+    },
   ];
   
   const services = [
@@ -72,10 +76,6 @@ import {
     {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
